@@ -596,16 +596,12 @@
       "INPUT_NPN"
     ],
     [
-      "9ebe62f5-492a-4992-b296-12dd65f81983",
-      "OUTPUT_NPN"
-    ],
-    [
       "b4c5dfe7-63e0-48af-8b3c-55d09b156e97",
       "INPUT_PNP"
     ],
     [
-      "32deb241-85d8-45a5-90a1-d14d4a486e96",
-      "OUTPUT_PNP"
+      "59f81767-a196-4819-bb61-d9fce72f6c5d",
+      "Realy"
     ]
   ],
   "text_variables": {}

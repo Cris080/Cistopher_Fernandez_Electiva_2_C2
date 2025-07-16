@@ -1601,6 +1601,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 116.84) (xy 73.66 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00b0ff4b-a1af-4f6b-b7ed-f475cb7b5a15")
+	)
+	(wire
+		(pts
 			(xy 105.41 99.06) (xy 105.41 97.79)
 		)
 		(stroke
@@ -1608,6 +1618,16 @@
 			(type default)
 		)
 		(uuid "14d47505-57be-49ec-91d0-037fff41cce2")
+	)
+	(wire
+		(pts
+			(xy 250.19 128.27) (xy 256.54 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f3c2082-aecd-4b1b-988e-3b1a6c486895")
 	)
 	(wire
 		(pts
@@ -1631,6 +1651,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 132.08) (xy 256.54 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef3d5e3-d5cf-4bbf-85c8-90e463eea6b4")
+	)
+	(wire
+		(pts
 			(xy 217.17 92.71) (xy 222.25 92.71)
 		)
 		(stroke
@@ -1638,6 +1668,16 @@
 			(type default)
 		)
 		(uuid "6245df84-dd15-475d-97b1-b64ea7eeb328")
+	)
+	(wire
+		(pts
+			(xy 250.19 125.73) (xy 256.54 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68a6d69f-7d50-4b59-bd4f-8fafd3f2c827")
 	)
 	(wire
 		(pts
@@ -1651,6 +1691,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 120.65) (xy 73.66 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "754b0ddc-35c2-44aa-b88b-396c2495f8cc")
+	)
+	(wire
+		(pts
 			(xy 105.41 120.65) (xy 105.41 124.46)
 		)
 		(stroke
@@ -1661,6 +1711,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 123.19) (xy 256.54 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0666670-97f0-45d0-8372-fffdfc122eac")
+	)
+	(wire
+		(pts
 			(xy 247.65 92.71) (xy 250.19 92.71)
 		)
 		(stroke
@@ -1668,6 +1728,16 @@
 			(type default)
 		)
 		(uuid "a180d211-48ba-4c1e-b6ce-c27e8eb12551")
+	)
+	(wire
+		(pts
+			(xy 35.56 120.65) (xy 38.1 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ace602b9-fd84-4b00-ac3d-0e7964add26f")
 	)
 	(wire
 		(pts
@@ -1691,6 +1761,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 134.62) (xy 256.54 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2455a4c-3d3d-4c3a-ac6a-c523e572cb6f")
+	)
+	(wire
+		(pts
 			(xy 111.76 92.71) (xy 125.73 92.71)
 		)
 		(stroke
@@ -1701,6 +1781,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 116.84) (xy 38.1 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb2886f0-3928-4128-b56b-fa612afdc561")
+	)
+	(wire
+		(pts
 			(xy 217.17 95.25) (xy 222.25 95.25)
 		)
 		(stroke
@@ -1708,6 +1798,16 @@
 			(type default)
 		)
 		(uuid "ef362770-cb4f-4370-8f54-8887b18b19d5")
+	)
+	(wire
+		(pts
+			(xy 250.19 137.16) (xy 256.54 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f499f130-1b00-4323-944e-5c7d074f2adf")
 	)
 	(text_box "ESP-32-S3-WROOM-1\n"
 		(exclude_from_sim no)
@@ -1766,7 +1866,7 @@
 	)
 	(hierarchical_label "A032_IN1"
 		(shape input)
-		(at 41.91 78.74 0)
+		(at 87.63 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1778,7 +1878,7 @@
 	)
 	(hierarchical_label "RLY1_C"
 		(shape output)
-		(at 88.9 31.75 0)
+		(at 256.54 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1790,7 +1890,7 @@
 	)
 	(hierarchical_label "NPN_IN_2"
 		(shape input)
-		(at 21.59 78.74 0)
+		(at 38.1 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1802,7 +1902,7 @@
 	)
 	(hierarchical_label "RLY2_C"
 		(shape output)
-		(at 104.14 31.75 0)
+		(at 256.54 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1814,7 +1914,7 @@
 	)
 	(hierarchical_label "PNP_IN_2"
 		(shape input)
-		(at 21.59 87.63 0)
+		(at 73.66 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1838,7 +1938,7 @@
 	)
 	(hierarchical_label "PNP_IN_1"
 		(shape input)
-		(at 21.59 85.09 0)
+		(at 73.66 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1850,7 +1950,7 @@
 	)
 	(hierarchical_label "D_IN_2"
 		(shape input)
-		(at 41.91 88.9 0)
+		(at 87.63 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1860,9 +1960,9 @@
 		)
 		(uuid "519a8e39-7cc5-4320-a4de-aaecbdcda609")
 	)
-	(hierarchical_label "RFL2_NC"
+	(hierarchical_label "RLY2_NC"
 		(shape output)
-		(at 104.14 34.29 0)
+		(at 256.54 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1898,7 +1998,7 @@
 	)
 	(hierarchical_label "NPN_IN_1"
 		(shape input)
-		(at 21.59 76.2 0)
+		(at 38.1 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1910,7 +2010,7 @@
 	)
 	(hierarchical_label "RLY2_NO"
 		(shape output)
-		(at 104.14 36.83 0)
+		(at 256.54 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1922,7 +2022,7 @@
 	)
 	(hierarchical_label "D_IN_1"
 		(shape input)
-		(at 41.91 86.36 0)
+		(at 87.63 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1934,7 +2034,7 @@
 	)
 	(hierarchical_label "A010_IN1"
 		(shape input)
-		(at 41.91 76.2 0)
+		(at 87.63 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1946,7 +2046,7 @@
 	)
 	(hierarchical_label "RLY1_NO"
 		(shape output)
-		(at 88.9 36.83 0)
+		(at 256.54 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1958,7 +2058,7 @@
 	)
 	(hierarchical_label "A420_IN1"
 		(shape input)
-		(at 41.91 81.28 0)
+		(at 87.63 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1980,9 +2080,9 @@
 		)
 		(uuid "b7147869-544d-4cde-9427-39634b682e81")
 	)
-	(hierarchical_label "RFL1_NC"
+	(hierarchical_label "RLY1_NC"
 		(shape output)
-		(at 88.9 34.29 0)
+		(at 256.54 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2542,44 +2642,6 @@
 		)
 	)
 	(sheet
-		(at 50.8 148.59)
-		(size 20.32 16.51)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "32deb241-85d8-45a5-90a1-d14d4a486e96")
-		(property "Sheetname" "OUTPUT_PNP"
-			(at 50.8 147.8784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "OUTPUT_PNP.kicad_sch"
-			(at 50.8 165.6846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 20.32 24.13)
 		(size 16.51 12.7)
 		(stroke
@@ -2613,6 +2675,125 @@
 			(project "PLC DISEÑO"
 				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 234.95 118.11)
+		(size 15.24 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "59f81767-a196-4819-bb61-d9fce72f6c5d")
+		(property "Sheetname" "Realy"
+			(at 234.95 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled2.kicad_sch"
+			(at 234.95 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "RLY1_NO" input
+			(at 250.19 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3b669011-c313-4756-bd8a-6a47f932b4c6")
+		)
+		(pin "RLY1_NC" input
+			(at 250.19 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d1eb2cbc-92b0-4cbb-8910-cf87d25becbf")
+		)
+		(pin "RLY2_NO" input
+			(at 250.19 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dc1443fc-49aa-488a-b113-38598b6d3cb6")
+		)
+		(pin "RLY2_NC" input
+			(at 250.19 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "481ca831-a348-41b9-afa5-d6e21b8b8ac4")
+		)
+		(pin "RLY_1" input
+			(at 234.95 120.65 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e381835e-f21c-4aba-b19d-495431e42b11")
+		)
+		(pin "RLY_2" input
+			(at 234.95 139.7 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fdf10715-417a-42bc-8e11-8470bbd275a5")
+		)
+		(pin "RLY2_C" input
+			(at 250.19 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d565caaf-14b5-4c86-9f58-9c31b9b28470")
+		)
+		(pin "RLY1_C" input
+			(at 250.19 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "10bb7bad-93ea-422a-8d88-45433ba0058b")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294"
+					(page "7")
 				)
 			)
 		)
@@ -2688,6 +2869,16 @@
 			)
 			(uuid "1d53f863-122d-44a7-b5e6-24032a2b97e6")
 		)
+		(pin "GPIO control" input
+			(at 247.65 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cfc72184-b987-48d5-b43b-09085f402d24")
+		)
 		(instances
 			(project "PLC DISEÑO"
 				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294"
@@ -2697,46 +2888,8 @@
 		)
 	)
 	(sheet
-		(at 22.86 148.59)
-		(size 19.05 16.51)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9ebe62f5-492a-4992-b296-12dd65f81983")
-		(property "Sheetname" "OUTPUT_NPN"
-			(at 22.86 147.8784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "OUTPUT_NPN.kicad_sch"
-			(at 22.86 165.6846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 50.8 111.76)
-		(size 20.32 16.51)
+		(at 50.8 115.57)
+		(size 20.32 8.89)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2747,7 +2900,7 @@
 		)
 		(uuid "b4c5dfe7-63e0-48af-8b3c-55d09b156e97")
 		(property "Sheetname" "INPUT_PNP"
-			(at 50.8 111.0484 0)
+			(at 50.8 114.8584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2756,13 +2909,44 @@
 			)
 		)
 		(property "Sheetfile" "INPUT_PNP.kicad_sch"
-			(at 50.8 128.8546 0)
+			(at 50.8 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
+		)
+		(pin "PNP_input" output
+			(at 50.8 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6620634f-11da-407c-81e5-0a0667f1da63")
+		)
+		(pin "PNP_in -" input
+			(at 71.12 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e4262121-a180-4797-87b4-12adcd11d8c6")
+		)
+		(pin "NPN_in +" input
+			(at 71.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "84ade066-3373-44c5-9fe9-548142369ab4")
 		)
 		(instances
 			(project "PLC DISEÑO"
@@ -2773,8 +2957,8 @@
 		)
 	)
 	(sheet
-		(at 22.86 111.76)
-		(size 19.05 16.51)
+		(at 16.51 114.3)
+		(size 19.05 10.16)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2785,7 +2969,7 @@
 		)
 		(uuid "c1052590-46ee-425b-af37-51818d42953f")
 		(property "Sheetname" "INPUT_NPN"
-			(at 22.86 111.0484 0)
+			(at 16.51 113.5884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2794,13 +2978,44 @@
 			)
 		)
 		(property "Sheetfile" "INPUT_NPN.kicad_sch"
-			(at 22.86 128.8546 0)
+			(at 16.51 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
+		)
+		(pin "NPN_in -" output
+			(at 35.56 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1fe9e847-dd38-449c-b21c-8b1421946b35")
+		)
+		(pin "NPN_in +" output
+			(at 35.56 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ffee4c4f-550b-4a8b-8777-3a0c15622e03")
+		)
+		(pin "NPN_input" output
+			(at 16.51 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6ad73505-cb5b-4184-adf0-69b56533206a")
 		)
 		(instances
 			(project "PLC DISEÑO"
