@@ -596,12 +596,12 @@
       "INPUT_NPN"
     ],
     [
-      "b4c5dfe7-63e0-48af-8b3c-55d09b156e97",
-      "INPUT_PNP"
-    ],
-    [
       "59f81767-a196-4819-bb61-d9fce72f6c5d",
       "Realy"
+    ],
+    [
+      "b4c5dfe7-63e0-48af-8b3c-55d09b156e97",
+      "INPUT_PNP"
     ],
     [
       "32a646d6-9895-4f20-ad6b-12fd506b0571",
@@ -622,6 +622,18 @@
     [
       "6de601c5-ef2c-4dca-8134-5289d04cc91b",
       "Modulo_in"
+    ],
+    [
+      "4b579cd9-f2d2-49df-81cc-19f825a6b0f7",
+      "0.10Vin"
+    ],
+    [
+      "65a88824-a53f-4344-920a-7fc47498f61f",
+      "Out_NPN"
+    ],
+    [
+      "86a7eb58-95a7-497f-9342-7862e74e743f",
+      "Out_PNP"
     ]
   ],
   "text_variables": {}
