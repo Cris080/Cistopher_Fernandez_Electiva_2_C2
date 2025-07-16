@@ -1876,7 +1876,7 @@
 	)
 	(text "Entrada Stop\n"
 		(exclude_from_sim no)
-		(at 83.82 135.89 0)
+		(at 83.312 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
