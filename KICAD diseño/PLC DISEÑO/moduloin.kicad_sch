@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "a9e8ade5-268d-4bbd-95a2-145b9c7be73c")
+	(uuid "cb8bf92d-4109-44db-be9c-05858d66164d")
 	(paper "A4")
 	(lib_symbols
 		(symbol "PCM_Diode_AKL:DL4007"
@@ -1074,342 +1074,294 @@
 		)
 	)
 	(junction
-		(at 180.34 71.12)
+		(at 200.66 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0286367e-bb9b-44dc-9b24-9faa8a9e7d77")
+		(uuid "1bba255e-04b7-4ea9-8871-5a85a80bad5c")
 	)
 	(junction
-		(at 215.9 107.95)
+		(at 200.66 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1aa238c8-7e8c-4856-af87-5d2f3207dbfc")
+		(uuid "21a3917a-4413-408e-a465-244f9e34ac3e")
 	)
 	(junction
-		(at 229.87 95.25)
+		(at 223.52 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2508bc15-122c-4776-a0fa-843f2071b7ea")
+		(uuid "39b7d551-0bf2-4a0d-b701-d6158695d162")
 	)
 	(junction
-		(at 157.48 87.63)
+		(at 151.13 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "469bb519-44fc-477f-a5c7-529a51f13ca7")
+		(uuid "748ab979-478e-40c0-b8b5-31fbf275b1d6")
 	)
 	(junction
-		(at 229.87 107.95)
+		(at 128.27 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "823b1ea1-0dc7-4608-99fa-450c00f3c9da")
+		(uuid "a0fea7ac-7a76-4deb-a8e7-74bd76ba7771")
 	)
 	(junction
-		(at 252.73 91.44)
+		(at 128.27 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cd84f286-16c1-4958-a131-db4dae35600e")
-	)
-	(junction
-		(at 157.48 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ea488c64-44f9-4c39-815d-4b02d19f835d")
+		(uuid "a181a6e4-7b19-4640-b113-066a1ef77da7")
 	)
 	(wire
 		(pts
-			(xy 252.73 76.2) (xy 252.73 78.74)
+			(xy 215.9 85.09) (xy 200.66 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0a5ef509-e70b-41d7-8ff9-b0f96581e19e")
+		(uuid "072d051a-1435-42cb-ab77-dba9a98824ad")
 	)
 	(wire
 		(pts
-			(xy 132.08 74.93) (xy 146.05 74.93)
+			(xy 151.13 91.44) (xy 151.13 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1b6e5890-9787-46a1-b0d0-996f7d4cdda2")
+		(uuid "0ad7c691-b0ae-43d8-8cde-8cce2d276305")
 	)
 	(wire
 		(pts
-			(xy 189.23 71.12) (xy 180.34 71.12)
+			(xy 196.85 72.39) (xy 200.66 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21e25da1-8250-47b4-9aaa-b5739c660658")
+		(uuid "124fbe17-bcc2-4363-a5bd-79c06fe06de7")
 	)
 	(wire
 		(pts
-			(xy 153.67 74.93) (xy 157.48 74.93)
+			(xy 223.52 92.71) (xy 223.52 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21fe6f5c-d4a4-4d63-b730-e2dae340b636")
+		(uuid "2ba515d6-2bc9-4800-83bf-300fdb66ba20")
 	)
 	(wire
 		(pts
-			(xy 180.34 66.04) (xy 180.34 71.12)
+			(xy 143.51 71.12) (xy 128.27 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "233c920b-14db-4929-ba13-910e98033818")
+		(uuid "5ba152ae-d88c-443a-9c68-2808f79e5d2f")
 	)
 	(wire
 		(pts
-			(xy 252.73 86.36) (xy 252.73 91.44)
+			(xy 128.27 83.82) (xy 128.27 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2fb8738a-2f7c-4773-8468-ea3504bb03f4")
+		(uuid "622333a9-957a-4420-90da-9ca297709181")
 	)
 	(wire
 		(pts
-			(xy 172.72 74.93) (xy 157.48 74.93)
+			(xy 151.13 81.28) (xy 151.13 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "38fed8fd-17a8-41f3-a134-e65c9b269c2b")
+		(uuid "6c79f99f-07d4-42f0-beaa-4ad08464744d")
 	)
 	(wire
 		(pts
-			(xy 212.09 95.25) (xy 218.44 95.25)
+			(xy 143.51 83.82) (xy 128.27 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4a9242d2-c11e-416e-bdd4-c8fbcd6a8d51")
+		(uuid "9ab82c03-69b4-4e94-8441-5320ce53cf1a")
 	)
 	(wire
 		(pts
-			(xy 157.48 87.63) (xy 127 87.63)
+			(xy 124.46 71.12) (xy 128.27 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5af872c2-8303-4d38-b059-f3d64ed42941")
+		(uuid "a7e448df-0281-4997-bb15-00770ad4faf6")
 	)
 	(wire
 		(pts
-			(xy 245.11 105.41) (xy 245.11 107.95)
+			(xy 223.52 68.58) (xy 223.52 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6023984f-85a2-467d-96a6-2734e719c9e0")
+		(uuid "b3801f6c-693d-4cf7-abd3-32f95a616bdc")
 	)
 	(wire
 		(pts
-			(xy 215.9 114.3) (xy 215.9 107.95)
+			(xy 200.66 85.09) (xy 200.66 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7bdee15e-1b41-4e71-84eb-d905ad1f3c53")
+		(uuid "b7d69bce-dba8-473b-90ed-73bc4e1e201f")
 	)
 	(wire
 		(pts
-			(xy 157.48 74.93) (xy 157.48 78.74)
+			(xy 113.03 71.12) (xy 116.84 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "816a16f5-f63a-44db-be8c-4995df882d6b")
+		(uuid "bc8a7e24-92cc-4e21-a711-85458b915bf2")
 	)
 	(wire
 		(pts
-			(xy 252.73 105.41) (xy 252.73 106.68)
+			(xy 185.42 85.09) (xy 185.42 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8833c7d8-c106-4bb7-93f9-98b8a0b18a3f")
+		(uuid "bdf3072d-5ee5-4460-889a-1b87a0e8731d")
 	)
 	(wire
 		(pts
-			(xy 229.87 95.25) (xy 229.87 99.06)
+			(xy 215.9 72.39) (xy 200.66 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8ba46394-fee9-4068-b579-0ec027b46142")
+		(uuid "c20bd330-3364-4d5f-8f48-12322708a75a")
 	)
 	(wire
 		(pts
-			(xy 226.06 95.25) (xy 229.87 95.25)
+			(xy 113.03 83.82) (xy 128.27 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ac7213e2-f08f-4ca1-b64b-774d3485060d")
+		(uuid "c3a6506b-015a-4808-9cb9-d52c9654afc9")
 	)
 	(wire
 		(pts
-			(xy 172.72 85.09) (xy 172.72 87.63)
+			(xy 128.27 71.12) (xy 128.27 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6e6cad9-1919-4a94-92ac-e2067adfe68d")
+		(uuid "c9d6105e-feb6-44a0-ba54-bdf1f123e3bd")
 	)
 	(wire
 		(pts
-			(xy 180.34 71.12) (xy 180.34 74.93)
+			(xy 185.42 85.09) (xy 200.66 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bd6a4ef3-b027-4993-8cd2-b28b3b4fd682")
+		(uuid "cad678a8-a140-42d1-9ac6-3a76c8fca071")
 	)
 	(wire
 		(pts
-			(xy 229.87 107.95) (xy 215.9 107.95)
+			(xy 161.29 83.82) (xy 151.13 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c3f41e18-21a7-45b7-a8a1-528d1da794a2")
+		(uuid "d0cc8202-88cc-4ba1-8a67-7561ef5c61d5")
 	)
 	(wire
 		(pts
-			(xy 245.11 107.95) (xy 229.87 107.95)
+			(xy 151.13 67.31) (xy 151.13 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb3fdc18-191f-4d5e-b8d8-c436b12fb1e9")
+		(uuid "d144098c-a584-4759-a83e-12e1ec3118b6")
 	)
 	(wire
 		(pts
-			(xy 157.48 87.63) (xy 157.48 86.36)
+			(xy 200.66 72.39) (xy 200.66 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cbd7e24e-25c6-4c8f-9338-ab068e25a31a")
+		(uuid "da1b057b-4e3a-496b-9258-9182f2fa81b4")
 	)
 	(wire
 		(pts
-			(xy 172.72 87.63) (xy 157.48 87.63)
+			(xy 215.9 82.55) (xy 215.9 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e34e6c3c-d726-423c-95ef-f8ebdc6a2960")
+		(uuid "da2136e9-9d9d-4500-ba3a-0694abde060d")
 	)
 	(wire
 		(pts
-			(xy 210.82 107.95) (xy 215.9 107.95)
+			(xy 229.87 85.09) (xy 223.52 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e5f0517b-0bd7-4ace-96f4-17cdf97172f3")
+		(uuid "efdf44d2-f702-4b84-8ddd-d820c82673a4")
 	)
 	(wire
 		(pts
-			(xy 261.62 91.44) (xy 252.73 91.44)
+			(xy 185.42 72.39) (xy 189.23 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ea030110-d857-4610-a920-690ad5914388")
+		(uuid "f1703339-766e-40bd-a446-ee13f762a0f8")
 	)
 	(wire
 		(pts
-			(xy 252.73 91.44) (xy 252.73 95.25)
+			(xy 223.52 82.55) (xy 223.52 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ec291453-db02-48d2-b8c1-324c52a1ad46")
+		(uuid "f427ca2b-867f-42da-af39-2529eef3638f")
 	)
 	(wire
 		(pts
-			(xy 229.87 107.95) (xy 229.87 106.68)
+			(xy 143.51 81.28) (xy 143.51 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f04ae72f-ef6e-4402-98e7-6726b3f2469b")
+		(uuid "f66aaf55-9717-451a-ac69-dd106c8af1de")
 	)
-	(wire
-		(pts
-			(xy 180.34 85.09) (xy 180.34 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1eae61e-c6b1-46ab-a810-e7aed6b8c6d2")
-	)
-	(wire
-		(pts
-			(xy 245.11 95.25) (xy 229.87 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f431b649-0137-433a-b45b-daec6a71ccf0")
-	)
-	(wire
-		(pts
-			(xy 180.34 55.88) (xy 180.34 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f797f6de-22c7-45a4-8a40-c579a86b6041")
-	)
-	(hierarchical_label "NPN_input_2"
-		(shape output)
-		(at 261.62 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7c4b4759-612c-40b8-b0b0-21efe156d9f4")
-	)
-	(hierarchical_label "NPN_in + 2"
-		(shape output)
-		(at 212.09 95.25 180)
+	(hierarchical_label "in - 2"
+		(shape input)
+		(at 185.42 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1417,23 +1369,11 @@
 			)
 			(justify right)
 		)
-		(uuid "8c9cf6e5-6f0a-440c-bf1f-aa78f4908691")
+		(uuid "035a457f-ffa6-4632-a54d-4c8d946de2e9")
 	)
-	(hierarchical_label "NPN_in + 1"
+	(hierarchical_label "input_1"
 		(shape output)
-		(at 132.08 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "dfcc81b2-cf2f-495c-9d90-478b81e9bdc4")
-	)
-	(hierarchical_label "NPN_input_1"
-		(shape output)
-		(at 189.23 71.12 0)
+		(at 161.29 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1441,20 +1381,340 @@
 			)
 			(justify left)
 		)
-		(uuid "f06c8b9a-a0af-4a44-ba31-1b64a053534b")
+		(uuid "2527b27e-dac4-4b88-abab-fb0bb6926469")
+	)
+	(hierarchical_label "in - 1"
+		(shape input)
+		(at 113.03 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2962b168-bcd9-482f-9e4c-888e83fdf5d9")
+	)
+	(hierarchical_label "input_2"
+		(shape output)
+		(at 229.87 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68b64013-5ec6-4cce-9cc1-a5160ea085a0")
+	)
+	(hierarchical_label "in + 2"
+		(shape input)
+		(at 185.42 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "830ba409-a0b9-4794-95e7-c364265d4b59")
+	)
+	(hierarchical_label "in + 2"
+		(shape input)
+		(at 113.03 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e251f403-ec7c-4aa0-b893-0de0a7318e07")
 	)
 	(symbol
-		(lib_id "PCM_Optocoupler_AKL:LTV-357T")
-		(at 176.53 80.01 0)
+		(lib_id "PCM_Resistor_US_AKL:R_0603")
+		(at 151.13 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1d47b19d-5bb4-45be-8d01-102a6fd36697")
-		(property "Reference" "OC1"
-			(at 184.15 78.7399 0)
+		(uuid "02e0f086-7151-4bdd-87df-a0625412e71b")
+		(property "Reference" "R23"
+			(at 148.59 88.9001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_0603"
+			(at 148.59 86.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+			(at 151.13 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
+			(at 151.13 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca2c9bee-7379-494e-9292-1781a7f1acbc")
+		)
+		(pin "2"
+			(uuid "1ab08dc1-e5f7-490c-86da-513f5312b950")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 223.52 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17d1fb69-234d-4e2c-a080-a19c6e835223")
+		(property "Reference" "#PWR059"
+			(at 223.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 223.52 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 223.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "897039c3-7a36-45d2-9080-9e057719a3d2")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Diode_AKL:DL4007")
+		(at 200.66 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2699f17b-6c73-4c7f-b3eb-9b4dafc53d3d")
+		(property "Reference" "D9"
+			(at 203.2 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DL4007"
+			(at 203.2 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PCM_Diode_SMD_AKL:D_MELF"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/products_inactive_data/ds16001.pdf"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MELF Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e69f9788-8557-4e30-84ef-4e157a7ff084")
+		)
+		(pin "2"
+			(uuid "46fd5619-33ff-4808-a3e1-2f5e9a355b53")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 151.13 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bd1035e-9f4c-42a2-8d2d-fe035ee2855e")
+		(property "Reference" "#PWR057"
+			(at 151.13 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 151.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 151.13 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be623f84-b474-4ef1-b083-c494520599dc")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Optocoupler_AKL:LTV-357T")
+		(at 147.32 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2be7c4f7-b977-4b73-a86b-2feba3a80537")
+		(property "Reference" "OC5"
+			(at 154.94 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1463,7 +1723,7 @@
 			)
 		)
 		(property "Value" "LTV-357T"
-			(at 184.15 81.2799 0)
+			(at 154.94 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1472,7 +1732,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Package_SO_AKL:SO-4_4.4x3.9mm_P2.54mm"
-			(at 171.45 85.09 0)
+			(at 142.24 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1483,7 +1743,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/4ccb1404604244f2e07aa15af3469fcc/LTV-357T.pdf"
-			(at 176.53 80.01 0)
+			(at 147.32 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1493,7 +1753,7 @@
 			)
 		)
 		(property "Description" "SO-4 Optocoupler, Transistor output, 3.75kV, 18us, Alternate KiCAD Library"
-			(at 176.53 80.01 0)
+			(at 147.32 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1502,21 +1762,89 @@
 			)
 		)
 		(pin "4"
-			(uuid "3a0a377e-a4d3-4db2-bfed-510b3ba6383a")
+			(uuid "4d632798-6717-403d-9f4d-371f9213bc09")
 		)
 		(pin "2"
-			(uuid "ef2b08fb-19ab-4a56-b761-df1ced21eabc")
+			(uuid "64b8756b-9790-4e71-a3b3-cc328d8dc89c")
 		)
 		(pin "1"
-			(uuid "c2c7b666-f37d-4485-aa48-a64b348155b1")
+			(uuid "d5cd694a-a3d0-452a-bb79-b735d4350159")
 		)
 		(pin "3"
-			(uuid "c4bb1b83-ea03-42ca-8a59-c06eda5a4b99")
+			(uuid "aed59318-90d3-407c-a358-1642aed941c8")
 		)
 		(instances
-			(project ""
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "OC1")
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "OC5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_US_AKL:R_0603")
+		(at 120.65 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "388905ce-f4a6-489c-a997-57480ae37901")
+		(property "Reference" "R22"
+			(at 120.65 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R_0603"
+			(at 120.65 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+			(at 132.08 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.65 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
+			(at 120.65 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed265c0b-845d-4f51-b0a1-24927918adef")
+		)
+		(pin "2"
+			(uuid "f2fc3311-761e-4fef-bbe4-b6e218f30e55")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -1524,16 +1852,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 87.63 0)
+		(at 223.52 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1e5774d8-e656-4fb7-a30f-972fa28988fe")
-		(property "Reference" "#PWR029"
-			(at 127 93.98 0)
+		(uuid "38fe8b61-a539-4759-8d8c-1914e94d8b2e")
+		(property "Reference" "#PWR060"
+			(at 223.52 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1542,7 +1870,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 92.71 0)
+			(at 223.52 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1550,7 +1878,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 87.63 0)
+			(at 223.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1559,7 +1887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 87.63 0)
+			(at 223.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1568,7 +1896,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 87.63 0)
+			(at 223.52 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1577,12 +1905,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b51c6db4-a92e-455c-bb20-bb2503e7eb52")
+			(uuid "83fbdfc6-c854-4576-8bca-48a85f75012f")
 		)
 		(instances
 			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR029")
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -1590,16 +1918,16 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 180.34 55.88 0)
+		(at 151.13 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5e8ddcfd-2670-47d8-b579-e6b3aaeaafaa")
-		(property "Reference" "#PWR020"
-			(at 180.34 59.69 0)
+		(uuid "4443b16c-6001-4b78-892b-4952a64f4f84")
+		(property "Reference" "#PWR056"
+			(at 151.13 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1608,7 +1936,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 180.34 50.8 0)
+			(at 151.13 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1616,7 +1944,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 55.88 0)
+			(at 151.13 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1625,7 +1953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 55.88 0)
+			(at 151.13 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1634,7 +1962,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 180.34 55.88 0)
+			(at 151.13 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1643,82 +1971,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3aaad3ed-9473-489e-9743-312389406a67")
+			(uuid "e2eb0593-e4d3-443c-911b-31dce01ac6ba")
 		)
 		(instances
-			(project ""
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Diode_AKL:DL4007")
-		(at 157.48 82.55 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67f66fbd-3796-4647-9c88-97829a2c4098")
-		(property "Reference" "D2"
-			(at 160.02 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "DL4007"
-			(at 160.02 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "PCM_Diode_SMD_AKL:D_MELF"
-			(at 157.48 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/products_inactive_data/ds16001.pdf"
-			(at 157.48 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MELF Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
-			(at 157.48 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5efaafa8-5d8f-4d05-973a-aad4c5f955dc")
-		)
-		(pin "2"
-			(uuid "6c2d63f7-6c42-4011-b31a-0d568810d554")
-		)
-		(instances
-			(project ""
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "D2")
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -1726,16 +1984,16 @@
 	)
 	(symbol
 		(lib_id "PCM_Optocoupler_AKL:LTV-357T")
-		(at 248.92 100.33 0)
+		(at 219.71 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "77f6ae84-00d3-43b2-bb61-2d36caabfd69")
-		(property "Reference" "OC3"
-			(at 256.54 99.0599 0)
+		(uuid "937e59cb-8a7c-4e4d-b56c-64c02459539c")
+		(property "Reference" "OC6"
+			(at 227.33 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1744,7 +2002,7 @@
 			)
 		)
 		(property "Value" "LTV-357T"
-			(at 256.54 101.5999 0)
+			(at 227.33 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1753,7 +2011,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Package_SO_AKL:SO-4_4.4x3.9mm_P2.54mm"
-			(at 243.84 105.41 0)
+			(at 214.63 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1764,7 +2022,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/4ccb1404604244f2e07aa15af3469fcc/LTV-357T.pdf"
-			(at 248.92 100.33 0)
+			(at 219.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1774,7 +2032,7 @@
 			)
 		)
 		(property "Description" "SO-4 Optocoupler, Transistor output, 3.75kV, 18us, Alternate KiCAD Library"
-			(at 248.92 100.33 0)
+			(at 219.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1783,21 +2041,21 @@
 			)
 		)
 		(pin "4"
-			(uuid "21d91a97-d0fd-4705-9783-ad6e712bd251")
+			(uuid "e15a7dc2-eb7b-4295-864c-f9c7c6b75a7b")
 		)
 		(pin "2"
-			(uuid "f13321b6-53ed-4870-b54f-0ec19db69ca5")
+			(uuid "057cafbe-b2c3-4429-9284-33b449adabf1")
 		)
 		(pin "1"
-			(uuid "b2342a8e-d36f-4e05-ad0a-a4cf61fc258c")
+			(uuid "6bc767b9-107e-44ee-98f5-35badd5fedbf")
 		)
 		(pin "3"
-			(uuid "93c181c9-330a-4172-b40d-8b1a93dae2c3")
+			(uuid "b741b515-7281-489e-a0cf-2c6b4b833de1")
 		)
 		(instances
 			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "OC3")
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "OC6")
 					(unit 1)
 				)
 			)
@@ -1805,16 +2063,16 @@
 	)
 	(symbol
 		(lib_id "PCM_Resistor_US_AKL:R_0603")
-		(at 149.86 74.93 90)
+		(at 193.04 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "791e1e09-c9eb-4134-9801-982df43a8f39")
-		(property "Reference" "R4"
-			(at 149.86 68.58 90)
+		(uuid "d36e7791-9be8-4690-8592-4b0f53354bca")
+		(property "Reference" "R24"
+			(at 193.04 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +2080,7 @@
 			)
 		)
 		(property "Value" "R_0603"
-			(at 149.86 71.12 90)
+			(at 193.04 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1830,7 +2088,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
-			(at 161.29 74.93 0)
+			(at 204.47 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1839,7 +2097,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 74.93 0)
+			(at 193.04 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1848,7 +2106,7 @@
 			)
 		)
 		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
-			(at 149.86 74.93 0)
+			(at 193.04 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1857,486 +2115,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "864ffe3b-806f-4524-b0b5-dd3e8ce6d42c")
+			(uuid "d44a6a98-34eb-49da-b5e1-e44214f7143e")
 		)
 		(pin "2"
-			(uuid "2f550f0a-1c59-4332-9d39-b9e395f8d9fa")
-		)
-		(instances
-			(project ""
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Resistor_US_AKL:R_0603")
-		(at 180.34 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c8996e1-f6aa-43c6-982c-c75605700d2d")
-		(property "Reference" "R5"
-			(at 182.88 60.9599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_0603"
-			(at 182.88 63.4999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
-			(at 180.34 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
-			(at 180.34 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4fd73d43-57a9-46ee-b0da-b134169b1ea0")
-		)
-		(pin "2"
-			(uuid "fa88f131-e70c-4ab9-a427-fc01505833ad")
+			(uuid "fb06e5f9-da2a-420c-8c72-713520823430")
 		)
 		(instances
 			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Resistor_US_AKL:R_0603")
-		(at 252.73 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c96fc12-8de0-4726-be3a-1cc225004d73")
-		(property "Reference" "R9"
-			(at 255.27 81.2799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_0603"
-			(at 255.27 83.8199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
-			(at 252.73 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 252.73 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
-			(at 252.73 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "18fc5401-295d-4bae-b64c-1eacc9336e3d")
-		)
-		(pin "2"
-			(uuid "bc82d35a-86e2-4a1a-9c40-f319774cfd82")
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 252.73 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a4532a83-cb72-496b-be3e-911171e5922c")
-		(property "Reference" "#PWR024"
-			(at 252.73 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ff325593-7c7c-4abc-b178-b28a9b1134f6")
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 215.9 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aae79180-d8d6-439c-89a1-309712c9b7de")
-		(property "Reference" "#PWR030"
-			(at 215.9 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 215.9 118.872 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 215.9 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d38c88e-0146-40b2-8071-202b491ef774")
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_Resistor_US_AKL:R_0603")
-		(at 222.25 95.25 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1522339-b598-432e-a463-1eb561103ce7")
-		(property "Reference" "R8"
-			(at 222.25 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "R_0603"
-			(at 222.25 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
-			(at 233.68 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
-			(at 222.25 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b32c7ee3-b2f8-4db5-bcf7-a225506aa70f")
-		)
-		(pin "2"
-			(uuid "b17d0e0a-e99d-49e9-9e05-a5c4b79c77f2")
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 252.73 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e24db7f4-94c8-435f-9931-40a91cefea08")
-		(property "Reference" "#PWR023"
-			(at 252.73 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 252.73 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c928286b-8851-4408-a7df-4ad18029e6dc")
-		)
-		(instances
-			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 180.34 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eecdc555-acb0-428a-b2cd-8df3dd159f2e")
-		(property "Reference" "#PWR019"
-			(at 180.34 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 180.34 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 180.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 180.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 180.34 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30225519-e2e3-431b-92c1-fe0887202de8")
-		)
-		(instances
-			(project ""
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "#PWR019")
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -2344,16 +2131,16 @@
 	)
 	(symbol
 		(lib_id "PCM_Diode_AKL:DL4007")
-		(at 229.87 102.87 90)
+		(at 128.27 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f23899a2-e684-4a11-8690-d963d855f14d")
-		(property "Reference" "D4"
-			(at 232.41 101.5999 90)
+		(uuid "d937fbef-fe96-4ce3-96a4-a27e6bb39599")
+		(property "Reference" "D8"
+			(at 130.81 77.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2362,7 +2149,7 @@
 			)
 		)
 		(property "Value" "DL4007"
-			(at 232.41 104.1399 90)
+			(at 130.81 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2371,7 +2158,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Diode_SMD_AKL:D_MELF"
-			(at 229.87 102.87 0)
+			(at 128.27 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2380,7 +2167,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/products_inactive_data/ds16001.pdf"
-			(at 229.87 102.87 0)
+			(at 128.27 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2389,7 +2176,7 @@
 			)
 		)
 		(property "Description" "MELF Diode, Rectifier, 1000V, 1A, Alternate KiCad Library"
-			(at 229.87 102.87 0)
+			(at 128.27 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2398,15 +2185,85 @@
 			)
 		)
 		(pin "1"
-			(uuid "67210c72-3609-4f5d-ac48-4d9a7db97022")
+			(uuid "fc2eb1f9-d445-470d-b43b-fd8a49b9494d")
 		)
 		(pin "2"
-			(uuid "8d1b039c-558c-4202-a5f8-8fa43f4b7bee")
+			(uuid "d6d224ca-71c7-4acb-9a84-796d3555fd39")
 		)
 		(instances
 			(project "PLC DISEÑO"
-				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/c1052590-46ee-425b-af37-51818d42953f"
-					(reference "D4")
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_US_AKL:R_0603")
+		(at 223.52 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdf377de-a4a5-4a69-99ce-0e243a37903a")
+		(property "Reference" "R25"
+			(at 220.98 90.1701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_0603"
+			(at 220.98 87.6301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+			(at 223.52 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
+			(at 223.52 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a53e8c6-8652-48c6-a759-c04b0086ae1d")
+		)
+		(pin "2"
+			(uuid "125b0ec4-660f-48fe-bf35-804f2f3ee9b0")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc/6cae9003-6268-4873-a546-b84fa61fb294/6de601c5-ef2c-4dca-8134-5289d04cc91b"
+					(reference "R25")
 					(unit 1)
 				)
 			)

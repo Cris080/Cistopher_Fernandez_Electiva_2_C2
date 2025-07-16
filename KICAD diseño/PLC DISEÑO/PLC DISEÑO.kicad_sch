@@ -1594,6 +1594,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 123.19) (xy 102.87 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21375d9e-4e26-47a9-9b57-caa2146e0fbc")
+	)
+	(wire
+		(pts
 			(xy 99.06 71.12) (xy 102.87 71.12)
 		)
 		(stroke
@@ -1704,6 +1714,26 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 128.27) (xy 102.87 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86acc416-8be2-4735-83ba-9055cf69cfe5")
+	)
+	(wire
+		(pts
+			(xy 100.33 125.73) (xy 102.87 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98685513-b7f7-4238-8f7f-5e908768f438")
+	)
+	(wire
+		(pts
 			(xy 99.06 135.89) (xy 102.87 135.89)
 		)
 		(stroke
@@ -1711,6 +1741,16 @@
 			(type default)
 		)
 		(uuid "997ec855-7963-4eb7-aa6e-8c2858d0c3bd")
+	)
+	(wire
+		(pts
+			(xy 100.33 130.81) (xy 102.87 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a2bef17-53e6-4c07-afad-4753223ffe90")
 	)
 	(wire
 		(pts
@@ -2329,6 +2369,82 @@
 			(project ""
 				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc"
 					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_4_P5.00mm")
+		(at 96.52 127 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "555ef106-fd31-4a29-9287-aa38b4a52b4a")
+		(property "Reference" "J5"
+			(at 95.885 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Screw_Terminal_4_P5.00mm"
+			(at 92.71 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal"
+			(at 96.52 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "00cf4b9d-0f9a-464a-b280-9aed4b9ac871")
+		)
+		(pin "2"
+			(uuid "c00ff8db-7fe0-4f53-9f8e-88e40baa70d3")
+		)
+		(pin "4"
+			(uuid "d1c7ded0-db24-4c7b-a76a-c0372536dcbb")
+		)
+		(pin "1"
+			(uuid "5e6046c0-ca32-4db7-b28b-9f5b65fd4ea6")
+		)
+		(instances
+			(project "PLC DISEÑO"
+				(path "/3591d221-fcc3-4bcd-9e55-dff6b841bafc"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3194,7 +3310,7 @@
 				(hide yes)
 			)
 		)
-		(pin "AOUT_420_1" input
+		(pin "AOUT_420_1" output
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -3204,7 +3320,7 @@
 			)
 			(uuid "d0c889b4-b4ae-4343-a1e5-a390c2362f77")
 		)
-		(pin "AOUT_010_1" input
+		(pin "AOUT_010_1" output
 			(at 151.13 86.36 0)
 			(effects
 				(font
@@ -3243,26 +3359,6 @@
 				(justify right)
 			)
 			(uuid "d5797bbd-5e49-4b32-b0e9-bfd694bf3ce0")
-		)
-		(pin "RFL2_NC" output
-			(at 151.13 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "d87d95ba-f692-4583-aedf-e9a9396a60d9")
-		)
-		(pin "RFL1_NC" output
-			(at 151.13 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "755bd0cc-b861-497f-ba59-5eb5ed92a973")
 		)
 		(pin "RLY1_NO" output
 			(at 151.13 132.08 0)
@@ -3433,6 +3529,66 @@
 				(justify right)
 			)
 			(uuid "0d41fe45-4098-4b7c-9a65-fee87c89714e")
+		)
+		(pin "RLY2_NC" output
+			(at 151.13 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f952e0cc-0405-48ae-87da-5784fe6d68fe")
+		)
+		(pin "RLY1_NC" output
+			(at 151.13 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c5eddb77-ad89-41e8-a98d-05c7d9619725")
+		)
+		(pin "in + 1" input
+			(at 102.87 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "61cd0346-edd1-49c9-8a67-8fee9925734e")
+		)
+		(pin "in - 2" input
+			(at 102.87 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5c952373-f213-4603-bb0d-a6850f129117")
+		)
+		(pin "in - 1" input
+			(at 102.87 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8e11e53a-d9b9-436c-87f1-d7933ed29c6f")
+		)
+		(pin "in + 2" input
+			(at 102.87 128.27 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e60b27ed-27bd-4ac0-b0be-fe3e9c702826")
 		)
 		(instances
 			(project "PLC DISEÑO"
